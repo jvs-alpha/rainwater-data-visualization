@@ -1,7 +1,7 @@
 # minorpj31415
 data analysis and machine learning
 # OBJECTIVES
-* define the problem statement
+* define the problem statement - done
 * get the variables in the problem
 * get the proper data
 * analyse the data
