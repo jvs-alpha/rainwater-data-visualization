@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 csv_dat = pd.read_csv("chennai_reservoir_rainfall_made1.csv")
 read_dat = dict(csv_dat)
-mod_dat = {"Date":[],"POONDI":[],"CHOLAVARAM":[],"REDHILLS":[],"CHEMBARAMBAKKAM";[]}
+mod_dat = {"Date":[],"POONDI":[],"CHOLAVARAM":[],"REDHILLS":[],"CHEMBARAMBAKKAM":[]}
 for date in read_dat["Date"]:
     if date not in mod_dat["Date"]:
         mod_dat["Date"].append(date)
