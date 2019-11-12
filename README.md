@@ -1,4 +1,4 @@
-# minorpj31415
+# rainwater-data-visualization
 data analysis and machine learning
 # OBJECTIVES
 * define the problem statement - done
